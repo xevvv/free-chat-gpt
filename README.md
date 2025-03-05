@@ -1,4 +1,4 @@
-# FreeGPTs
+# FreeGPTs 1.0.1
 
 FreeGPTs is a Python library that provides free access to powerful AI models, including **ChatGPT-4**, **GPT-4o-mini**, and **SearchGPT**, for seamless integration into your Python applications. With this library, you can quickly and easily interact with these models to answer questions, generate text, and perform search-based tasks.
 
@@ -34,7 +34,7 @@ The library will continue to grow over time, with new AI models being added regu
 
 ***
 
-# FreeGPTs
+# FreeGPTs 1.0.1
 
 FreeGPTs — это библиотека Python, которая предоставляет бесплатный доступ к мощным моделям ИИ, включая ChatGPT-4, GPT-4o-mini и SearchGPT, для интеграции в ваши Python-приложения. С помощью этой библиотеки вы можете быстро и легко взаимодействовать с этими моделями для ответа на вопросы, генерации текста и выполнения поисковых задач.
 
