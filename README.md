@@ -13,7 +13,7 @@ pip install freegpts
 ## Example Usage
 
 ```python
-from freegpts import gpt4, gpt4omini, searchgpt
+from freegpts import gpt4, gpt4omini
 
 # Ask the user for a question
 question = input("Enter question: ")
@@ -24,9 +24,6 @@ print(gpt4.answer(question))
 
 print("Answer from GPT-4o-mini:")
 print(gpt4omini.answer(question))
-
-print("Answer from SearchGPT:")
-print(searchgpt.answer(question))
 ```
 
 ## Expanding Neural Networks
@@ -49,7 +46,7 @@ pip install freegpts
 ## Пример использования
 
 ```python
-from freegpts import gpt4, gpt4omini, searchgpt
+from freegpts import gpt4, gpt4omini
 
 # Запросить у пользователя вопрос
 question = input("Введите вопрос: ")
@@ -60,9 +57,6 @@ print(gpt4.answer(question))
 
 print("Ответ от GPT-4o-mini:")
 print(gpt4omini.answer(question))
-
-print("Ответ от SearchGPT:")
-print(searchgpt.answer(question))
 ```
 
 ## Расширение нейросетей
